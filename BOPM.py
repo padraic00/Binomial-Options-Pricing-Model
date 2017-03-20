@@ -1,4 +1,4 @@
-#  Binary Options Pricing
+# Binomial Options Pricing
 # By Padraic McAtee
 #     
 # My notation here is based on the original Cox, Ross and Rubinstein paper.
